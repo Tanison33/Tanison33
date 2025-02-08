@@ -5,7 +5,7 @@ Now I am degree student at University
 -------------------------------------
 
 I used to write  HTML , CSS , JS , PHP  but now i write Python.
-    🌍  I'm based in Thailand
+*   🌍  I'm based in Thailand
 *   🖥️  See my portfolio at [Youtube : @Tanisorn](http://www.youtube.com/channel/UCyALy-xKcANloVVnsfWmStQ)
 *   ✉️  You can contact me at [souldy007@gmail.com](mailto:souldy007@gmail.com)
 *   🧠  I learning code in Visualcode studio
